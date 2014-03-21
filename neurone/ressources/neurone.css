@@ -1,0 +1,115 @@
+/*------------------- style body-----------------*/
+body {
+  margin: 0px; 
+  background-image: url(../images/top_bg.jpg);
+  background-repeat: repeat-x;
+  background-color: #DEDEDE;
+  text-align: center; 
+}
+
+/*------------------les style de police ------------------*/
+
+/* FONTS */
+body, table, td, div, div, p {
+  font: 11px Verdana, sans-serif; /* 0.94em */
+  line-height: 20px;
+  color: #555555;
+}
+
+input, select, textarea, option {
+  font: 8pt Verdana, sans-serif;
+  color: #336699;
+}
+
+/*--------------------Formulaire----------------*/
+
+legend{
+padding-top:1px; 
+padding-bottom:1px;
+padding-right:1px;
+padding-left:5px;
+border-left:0px solid #999 ;
+border-right:1px solid #999 ;
+font-weight:bold;
+}
+
+fieldset{
+align:center ;
+margin-top:1%;
+margin-bottom:10px;
+margin-right:20%;
+margin-left:20%;
+border:#CCC 1px groove;
+border-radius:20px;
+box-shadow:3px 3px 0px #9b9b9b;
+background-color: #ffffff;
+width:50%;
+}
+
+fieldset.indentif{
+margin-top:5%;
+margin-bottom:10px;
+border:#CCC 1px groove;
+border-radius:20px;
+box-shadow:3px 3px 0px #9b9b9b;
+background-color: #ffffff;
+}
+
+label {
+	display :block;
+	width:20%;
+	float: left;
+	padding-left: 15%;
+	padding-left: 10%;
+	text-align:right;
+	/*background-color: #F0F0F0;*/
+	font-weight:bold;
+	text-shadow:3px 4px 3px #9b9b9b;
+ }
+
+input[type="text"]{
+	width:30%;
+	margin-right:35%;
+	margin-top:1px;
+	border:1px solid #CCC;
+	background-color: #F0F0F0;
+} 
+
+input[type="password"]{
+	width:30%;
+	margin-right:35%;
+	margin-top:1px;
+	border:1px solid #CCC;
+	background-color: #F0F0F0;
+} 
+
+/*input:hover{
+
+}*/
+
+/*input:focus{
+border: 1px solid #999 ;
+}*/
+
+input[type="reset"] {
+	box-shadow:2px 1px #9b9b9b;
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	/*opacity :0.7;*/
+	font-size: small;
+ }
+ 
+input[type="reset"]:hover {
+background-color: #E64840
+cursor: pointer;
+}
+
+input[type="submit"] {
+	box-shadow:2px 1px #9b9b9b;
+	color:#000000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	/*opacity :0.7;*/
+	font-size: small;
+}
+ 
+	   

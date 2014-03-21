@@ -1,0 +1,639 @@
+06-04 01:22:08
+echec: 1979
+reussite: 521
+pourcentage: 20.0
+06-04 01:29:25
+echec: 1712
+reussite: 788
+pourcentage: 31.0
+06-04 01:37:34
+echec: 1732
+reussite: 768
+pourcentage: 30.0
+06-04 01:44:11
+echec: 1126
+reussite: 1374
+pourcentage: 54.0
+06-04 01:55:48
+echec: 456
+reussite: 2044
+pourcentage: 81.0
+
+06-04 02:06:15
+echec: 1151
+reussite: 1349
+pourcentage: 53.0
+06-04 02:07:42
+echec: 1983
+reussite: 517
+pourcentage: 20.0
+06-04 02:08:26
+echec: 1135
+reussite: 1365
+pourcentage: 54.0
+06-04 02:08:48
+echec: 1817
+reussite: 683
+pourcentage: 27.0
+06-04 02:09:19
+echec: 1137
+reussite: 1363
+pourcentage: 54.0
+06-04 02:09:56
+echec: 1140
+reussite: 1360
+pourcentage: 54.0
+06-04 02:10:35
+echec: 1136
+reussite: 1364
+pourcentage: 54.0
+06-04 02:12:49
+echec: 1133
+reussite: 1367
+pourcentage: 54.0
+06-04 02:22:50
+echec: 1135
+reussite: 1365
+pourcentage: 54.0
+06-04 02:25:56
+echec: 1132
+reussite: 1368
+pourcentage: 54.0
+06-04 02:32:18
+echec: 1128
+reussite: 1372
+pourcentage: 54.0
+06-04 03:22:21
+echec: 1133
+reussite: 1367
+pourcentage: 54.0
+06-04 03:32:37
+echec: 1139
+reussite: 1361
+pourcentage: 54.0
+06-04 03:48:58
+echec: 1133
+reussite: 1367
+pourcentage: 54.0
+06-04 03:49:37
+echec: 1333
+reussite: 1167
+pourcentage: 46.0
+06-04 03:50:01
+echec: 1288
+reussite: 1212
+pourcentage: 48.0
+06-04 03:50:25
+echec: 1211
+reussite: 1289
+pourcentage: 51.0
+06-04 03:50:51
+echec: 1165
+reussite: 1335
+pourcentage: 53.0
+06-04 03:51:17
+echec: 1165
+reussite: 1335
+pourcentage: 53.0
+06-04 03:51:46
+echec: 1157
+reussite: 1343
+pourcentage: 53.0
+06-04 03:52:31
+echec: 1157
+reussite: 1343
+pourcentage: 53.0
+06-04 03:53:08
+echec: 1479
+reussite: 1021
+pourcentage: 40.0
+06-04 03:53:59
+echec: 1166
+reussite: 1334
+pourcentage: 53.0
+06-04 03:57:52
+echec: 1138
+reussite: 1362
+pourcentage: 54.0
+07-04 06:17:42
+echec: 1159
+reussite: 1341
+pourcentage: 53.0
+07-04 06:18:58
+echec: 929
+reussite: 1571
+pourcentage: 62.0
+07-04 06:24:33
+echec: 1150
+reussite: 1350
+pourcentage: 54.0
+07-04 06:27:38
+echec: 1155
+reussite: 1345
+pourcentage: 53.0
+07-04 06:58:28
+echec: 1165
+reussite: 1335
+pourcentage: 53.0
+07-04 07:07:20
+echec: 1159
+reussite: 1341
+pourcentage: 53.0
+07-04 07:09:07
+echec: 898
+reussite: 1602
+pourcentage: 64.0
+07-04 07:11:03
+echec: 1470
+reussite: 1030
+pourcentage: 41.0
+07-04 07:12:28
+echec: 1469
+reussite: 1031
+pourcentage: 41.0
+07-04 07:14:04
+echec: 1479
+reussite: 1021
+pourcentage: 40.0
+07-04 07:18:46
+echec: 1472
+reussite: 1028
+pourcentage: 41.0
+07-04 07:28:06
+echec: 1480
+reussite: 1020
+pourcentage: 40.0
+07-04 07:29:02
+echec: 1487
+reussite: 1013
+pourcentage: 40.0
+07-04 07:29:50
+echec: 1493
+reussite: 1007
+pourcentage: 40.0
+07-04 07:36:42
+echec: 47
+reussite: 2453
+pourcentage: 98.0
+07-04 07:37:12
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+07-04 07:37:29
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+07-04 07:38:58
+echec: 1609
+reussite: 891
+pourcentage: 35.0
+07-04 07:53:15
+echec: 1198
+reussite: 1302
+pourcentage: 52.0
+07-04 07:56:12
+echec: 1183
+reussite: 1317
+pourcentage: 52.0
+07-04 07:56:29
+echec: 2435
+reussite: 65
+pourcentage: 2.0
+07-04 07:56:40
+echec: 2435
+reussite: 65
+pourcentage: 2.0
+07-04 07:59:34
+echec: 1267
+reussite: 1233
+pourcentage: 49.0
+07-04 08:00:06
+echec: 2335
+reussite: 165
+pourcentage: 6.0
+07-04 08:18:30
+echec: 2294
+reussite: 206
+pourcentage: 8.0
+07-04 08:18:49
+echec: 2294
+reussite: 206
+pourcentage: 8.0
+07-04 08:21:09
+echec: 1183
+reussite: 1317
+pourcentage: 52.0
+07-04 08:21:53
+echec: 2264
+reussite: 236
+pourcentage: 9.0
+07-04 08:24:43
+echec: 2284
+reussite: 216
+pourcentage: 8.0
+07-04 08:24:55
+echec: 2284
+reussite: 216
+pourcentage: 8.0
+07-04 09:57:18
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+07-04 09:57:41
+echec: 2499
+reussite: 1
+pourcentage: 0.0
+07-04 09:58:10
+echec: 2497
+reussite: 3
+pourcentage: 0.0
+07-04 09:59:53
+echec: 2492
+reussite: 8
+pourcentage: 0.0
+07-04 10:00:53
+echec: 2495
+reussite: 5
+pourcentage: 0.0
+07-04 10:02:21
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+07-04 10:02:37
+echec: 2422
+reussite: 78
+pourcentage: 3.0
+07-04 10:05:38
+echec: 770
+reussite: 1730
+pourcentage: 69.0
+07-04 10:06:50
+echec: 2329
+reussite: 171
+pourcentage: 6.0
+07-04 10:07:05
+echec: 2329
+reussite: 171
+pourcentage: 6.0
+07-04 10:08:14
+echec: 855
+reussite: 1645
+pourcentage: 65.0
+07-04 10:16:55
+echec: 436
+reussite: 2064
+pourcentage: 82.0
+07-04 10:17:24
+echec: 2194
+reussite: 306
+pourcentage: 12.0
+07-04 10:39:51
+echec: 722
+reussite: 1778
+pourcentage: 71.0
+07-04 10:45:42
+echec: 2277
+reussite: 223
+pourcentage: 8.0
+07-04 10:45:54
+echec: 2277
+reussite: 223
+pourcentage: 8.0
+07-04 10:53:23
+echec: 6
+reussite: 2494
+pourcentage: 99.0
+07-04 11:06:21
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+07-04 11:06:38
+echec: 2477
+reussite: 23
+pourcentage: 0.0
+08-04 12:12:27
+echec: 9
+reussite: 2491
+pourcentage: 99.0
+08-04 12:12:59
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:13:11
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:16:00
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:17:33
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:18:24
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:19:03
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:19:19
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:20:36
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:26:52
+echec: 2109
+reussite: 391
+pourcentage: 15.0
+08-04 12:37:18
+echec: 12
+reussite: 2488
+pourcentage: 99.0
+08-04 12:51:29
+echec: 10
+reussite: 2490
+pourcentage: 99.0
+08-04 12:52:51
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+08-04 12:59:04
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+08-04 01:01:05
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+08-04 01:12:08
+echec: 11
+reussite: 2489
+pourcentage: 99.0
+08-04 01:13:20
+echec: 2500
+reussite: 0
+pourcentage: 0.0
+08-04 01:21:51
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:21:51
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:49:25
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:49:25
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:51:16
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:51:16
+echec: 13
+reussite: 2487
+pourcentage: 99.0
+08-04 01:56:41
+echec: 12
+reussite: 2488
+pourcentage: 99.0
+08-04 01:56:42
+echec: 12
+reussite: 2488
+pourcentage: 99.0
+08-04 01:58:11
+echec: 586
+reussite: 1914
+pourcentage: 76.0
+08-04 01:58:11
+echec: 586
+reussite: 1914
+pourcentage: 76.0
+08-04 02:04:10
+echec: 499
+reussite: 2001
+pourcentage: 80.0
+08-04 02:04:10
+echec: 499
+reussite: 2001
+pourcentage: 80.0
+08-04 02:23:17
+echec: 309
+reussite: 2191
+pourcentage: 87.0
+08-04 02:23:18
+echec: 309
+reussite: 2191
+pourcentage: 87.0
+10-04 11:17:46
+echec: 8
+reussite: 2492
+pourcentage: 99.0
+10-04 11:17:46
+echec: 8
+reussite: 2492
+pourcentage: 99.0
+10-04 11:21:02
+echec: 168
+reussite: 2332
+pourcentage: 93.0
+10-04 11:21:02
+echec: 168
+reussite: 2332
+pourcentage: 93.0
+10-04 11:23:05
+echec: 17
+reussite: 2483
+pourcentage: 99.0
+10-04 11:23:05
+echec: 17
+reussite: 2483
+pourcentage: 99.0
+10-04 11:24:29
+echec: 18
+reussite: 2482
+pourcentage: 99.0
+10-04 11:24:29
+echec: 18
+reussite: 2482
+pourcentage: 99.0
+10-04 11:27:36
+echec: 12
+reussite: 2488
+pourcentage: 99.0
+10-04 11:27:36
+echec: 12
+reussite: 2488
+pourcentage: 99.0
+10-04 11:28:41
+echec: 67
+reussite: 2433
+pourcentage: 97.0
+10-04 11:28:41
+echec: 67
+reussite: 2433
+pourcentage: 97.0
+10-04 11:29:24
+echec: 19
+reussite: 2481
+pourcentage: 99.0
+10-04 11:29:24
+echec: 19
+reussite: 2481
+pourcentage: 99.0
+10-04 11:30:31
+echec: 36
+reussite: 2464
+pourcentage: 98.0
+10-04 11:30:32
+echec: 36
+reussite: 2464
+pourcentage: 98.0
+10-04 11:31:09
+echec: 19
+reussite: 2481
+pourcentage: 99.0
+10-04 11:31:09
+echec: 19
+reussite: 2481
+pourcentage: 99.0
+10-04 11:32:25
+echec: 20
+reussite: 2480
+pourcentage: 99.0
+10-04 11:32:25
+echec: 20
+reussite: 2480
+pourcentage: 99.0
+11-04 07:32:41
+echec: 21
+reussite: 2479
+pourcentage: 99.0
+
+23-04 11:12:18
+Nombre de neurone couche intermediaire :50
+ teta : 0.2
+echecs  => 28
+Reussite => 2472
+statistique de reussite  => 98.0%
+23-04 11:13:12
+Nombre de neurone couche intermediaire :100
+ teta : 0.2
+echecs  => 16
+Reussite => 2484
+statistique de reussite  => 99.0%
+23-04 11:14:50
+Nombre de neurone couche intermediaire :200
+ teta : 0.2
+echecs  => 23
+Reussite => 2477
+statistique de reussite  => 99.0%
+23-04 11:15:22
+Nombre de neurone couche intermediaire :50
+ teta : 0.4
+echecs  => 24
+Reussite => 2476
+statistique de reussite  => 99.0%
+23-04 11:16:16
+Nombre de neurone couche intermediaire :100
+ teta : 0.4
+echecs  => 35
+Reussite => 2465
+statistique de reussite  => 98.0%
+23-04 11:17:55
+Nombre de neurone couche intermediaire :200
+ teta : 0.4
+echecs  => 21
+Reussite => 2479
+statistique de reussite  => 99.0%
+23-04 11:18:28
+Nombre de neurone couche intermediaire :50
+ teta : 0.8
+echecs  => 33
+Reussite => 2467
+statistique de reussite  => 98.0%
+23-04 11:19:22
+Nombre de neurone couche intermediaire :100
+ teta : 0.8
+echecs  => 24
+Reussite => 2476
+statistique de reussite  => 99.0%
+23-04 11:21:06
+Nombre de neurone couche intermediaire :200
+ teta : 0.8
+echecs  => 39
+Reussite => 2461
+statistique de reussite  => 98.0% 
+
+24-04 05:06:40
+Nombre de neurone couche intermediaire :50
+teta : 0.2
+echecs  => 39
+Reussite => 2461
+statistique de reussite  => 98.0%
+
+24-04 05:07:33
+Nombre de neurone couche intermediaire :100
+teta : 0.2
+echecs  => 228
+Reussite => 2272
+statistique de reussite  => 90.0%
+
+24-04 05:09:09
+Nombre de neurone couche intermediaire :200
+teta : 0.2
+echecs  => 237
+Reussite => 2263
+statistique de reussite  => 90.0%
+
+24-04 05:09:39
+Nombre de neurone couche intermediaire :50
+teta : 0.4
+echecs  => 24
+Reussite => 2476
+statistique de reussite  => 99.0%
+
+24-04 05:10:32
+Nombre de neurone couche intermediaire :100
+teta : 0.4
+echecs  => 21
+Reussite => 2479
+statistique de reussite  => 99.0%
+
+24-04 05:12:11
+Nombre de neurone couche intermediaire :200
+teta : 0.4
+echecs  => 237
+Reussite => 2263
+statistique de reussite  => 90.0%
+
+24-04 05:12:43
+Nombre de neurone couche intermediaire :50
+teta : 0.8
+echecs  => 18
+Reussite => 2482
+statistique de reussite  => 99.0%
+
+24-04 05:13:34
+Nombre de neurone couche intermediaire :100
+teta : 0.8
+echecs  => 32
+Reussite => 2468
+statistique de reussite  => 98.0%
+
+24-04 05:15:13
+Nombre de neurone couche intermediaire :200
+teta : 0.8
+echecs  => 31
+Reussite => 2469
+statistique de reussite  => 98.0% 

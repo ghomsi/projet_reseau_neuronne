@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="/Applications/eclipse/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/Applications/eclipse/plugins/org.junit_4.8.1.v4_8_1_v20100427-1100/junit.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="lecture,reseauNeurone,analyseChiffres" source="1.6" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
